@@ -1,4 +1,3 @@
-(The file `c:\Users\sumit\Documents\assignement2\README.md` exists, but is empty)
 # Campus Flavored — Vendor & Admin Portal
 
 This repository contains the Campus Flavored vendor and admin portal: a FastAPI backend (food-bot) and a React (Vite) frontend for managing campus food stalls, orders, ratings, and sales.
