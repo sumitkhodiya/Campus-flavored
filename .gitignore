@@ -4,3 +4,11 @@ __pycache__/
 .vscode/
 .env
 db.sqlite3
+# Local food-bot sqlite DB
+food-bot/food_bot.db
+# Frontend artifacts
+frontend/dist/
+frontend/node_modules/
+# Editor / OS
+.DS_Store
+Thumbs.db

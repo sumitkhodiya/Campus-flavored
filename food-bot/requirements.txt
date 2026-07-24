@@ -1,0 +1,10 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+sqlalchemy>=2.0.0
+psycopg2-binary
+python-dotenv>=1.0.0
+redis
+httpx
+passlib[bcrypt]
+python-jose[cryptography]
+celery
